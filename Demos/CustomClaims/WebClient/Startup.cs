@@ -40,7 +40,7 @@ namespace WebClient
                     config.ClaimActions.MapUniqueJsonKey("car", "CodeItUp.Car");
 
                     // Adds custom claim scope. You can also remove the default scopes (note that "openid" is required).
-                    config.Scope.Add("codeitup");
+                    config.Scope.Add("codeitup"); 
                 });
 
             services.AddControllersWithViews();

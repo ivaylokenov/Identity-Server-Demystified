@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. CatsApi", "ClientCreden
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Owners", "ClientCredentials\Owners\06. Owners.csproj", "{1A2F1757-C383-4ABA-9D3E-A7DF39FA1C2C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. AuthorizationDodeFlow", "04. AuthorizationDodeFlow", "{2AF8917C-08CB-4453-815F-23FC6BD8C1B5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. AuthorizationCodeFlow", "04. AuthorizationCodeFlow", "{2AF8917C-08CB-4453-815F-23FC6BD8C1B5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. IdentityServer", "AuthorizationCodeFlow\IdentityServer\07. IdentityServer.csproj", "{45CEB774-3C46-4343-9F88-9CF01CC866F5}"
 EndProject

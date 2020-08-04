@@ -23,11 +23,11 @@ namespace AuthorizationBasics
             services
                 .AddAuthorization(config =>
                 {
-                    // var defaultAuthBuilder = new AuthorizationPolicyBuilder();
-                    // var defaultAuthPolicy = defaultAuthBuilder
-                    //     .RequireAuthenticatedUser()
-                    //     .RequireClaim(ClaimTypes.DateOfBirth)
-                    //     .Build();
+                    //var defaultAuthBuilder = new AuthorizationPolicyBuilder();
+                    //var defaultAuthPolicy = defaultAuthBuilder
+                    //    .RequireAuthenticatedUser()
+                    //    .RequireClaim(ClaimTypes.DateOfBirth)
+                    //    .Build();
 
                     // config.DefaultPolicy = defaultAuthPolicy;
 
