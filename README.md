@@ -35,6 +35,28 @@ Gold sponsors:
   </tbody>
 </table>
 
+Table of contents:
+
+- About Code It Up
+- Why Identity Server?
+- Authentication in ASP.NET Core
+- Authorization in ASP.NET Core
+- ASP.NET Core Identity
+- Stateless Token Security and JWT
+- The OAuth 2 Protocol
+- The OpenId Connect Protocol
+- Implementing OAuth 2 Manually
+- Identity Server Concepts
+- The Client Credentials Flow
+- The Authorization Code Flow
+- Refresh Token
+- Implicit Flow
+- The Hybrid Flow
+- Proof Key for Code Exchange (PKCE)
+- External Login Providers - Facebook Example
+- Identity Server UI
+- Configuration & Certificates in Production
+
 If you'd like to support me and my projects, please consider:
 
 - [My mentorship program on Patreon](https://www.patreon.com/ivaylokenov)
