@@ -74,6 +74,5 @@ Additional resources:
 
 - My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications: https://www.youtube.com/MyTestedASPNETTV
 - Kubernetes For Web Developers - Code It Up Workshop Vol. 3 - https://bit.ly/ciu-kub
-- Enter The Swarm: Native Docker Clustering - Code It Up Workshop Vol. 4 - https://bit.ly/ciu-swarm
-- Becoming a Software Architect: The Knowledge Path - Code It Up Workshop Vol. 5 - https://bit.ly/ciu-architect
+- Becoming a Software Architect: The Knowledge Path - Code It Up Workshop Vol. 4 - https://bit.ly/ciu-architect
 - Domain-Driven Design with ASP.NET Core Microservices - SoftUni Course - https://bit.ly/su-ddd-microservices
