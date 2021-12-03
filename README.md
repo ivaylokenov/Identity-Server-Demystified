@@ -72,7 +72,7 @@ If you'd like to support me and my projects, please consider:
 
 Additional resources:
 
-- My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications: https://www.youtube.com/MyTestedASPNETTV
+- My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications - [Code It Up with Ivo](https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ)
 - Kubernetes For Web Developers - Code It Up Workshop Vol. 3 - https://bit.ly/ciu-kub
 - Becoming a Software Architect: The Knowledge Path - Code It Up Workshop Vol. 4 - https://bit.ly/ciu-architect
 - Domain-Driven Design with ASP.NET Core Microservices - SoftUni Course - https://bit.ly/su-ddd-microservices
